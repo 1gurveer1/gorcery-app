@@ -1,0 +1,42 @@
+
+.item_name{
+    font-size: 20px;
+    text-align: center;
+
+}
+.item_price{
+    font-size: 20px;
+}
+img{
+    max-width: 300px;
+    max-height: 300px;
+}
+.item_card{
+    max-width: 300px;
+    max-height: 500px;
+    border: none;
+
+}
+.item_quantity {
+    text-align: center;
+}
+.flex-container{
+    display: flex;
+}
+
+
+.fa-plus{
+  color:green ;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.fa-trash{
+  color:red;
+  cursor: pointer;
+}
+
+label{
+    font-weight: bold;
+}
+
